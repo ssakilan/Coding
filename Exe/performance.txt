@@ -1,0 +1,2 @@
+Elapsed Time: Minutes: 2 Seconds: 39
+Actual Memory used (in MB): 19
